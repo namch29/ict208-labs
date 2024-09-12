@@ -1,0 +1,9 @@
+name: cpp-binder-env
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - notebook
+  - numpy         # Added package
+  - matplotlib    # Added package
+  - nbgitpuller
